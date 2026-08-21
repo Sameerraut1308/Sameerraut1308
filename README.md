@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Sameer Raut</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | SQL | REST APIs</h3>
 
